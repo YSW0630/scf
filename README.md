@@ -1,4 +1,12 @@
 # scf
+
+> [!NOTE] 
+> This repository is a mirror of:
+> http://baseworks.info/?p=scf.git
+>
+> Original author: Yu Dongliang
+> License: GPL v3
+
 -------
 #### 介绍
 一个完全自己编写的编译器框架,
